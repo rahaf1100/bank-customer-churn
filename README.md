@@ -110,10 +110,11 @@ streamlit run app.py
 
 The application will open in your browser at the local URL provided by Streamlit.
 
-## Live Demo
+## 🚀 Live Demo
 
-**Coming soon:** The deployed Streamlit application will be linked here once deployment is complete.
+Try the interactive Bank Customer Churn prediction app:
 
+[Launch the App](https://bank-customer-churn-phesieuxpwbcmdxcktrfzu.streamlit.app/)
 ## Potential Business Value
 
 The project demonstrates how customer data can be used to:
